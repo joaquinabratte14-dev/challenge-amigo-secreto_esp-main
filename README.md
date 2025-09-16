@@ -1,5 +1,6 @@
 Amigo Secreto
 Aplicación simple en JavaScript para gestionar nombres de amigos y realizar un sorteo al azar (“amigo secreto”).
+
 Descripción:
 Esta aplicación permite:
 
